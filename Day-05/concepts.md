@@ -56,6 +56,12 @@ NSGs are fundamental for Azure's network security, allowing filtering of inbound
 
 - **Association**: NSGs can be associated with subnets or individual network interfaces.
 
+<img width="934" height="155" alt="image" src="https://github.com/user-attachments/assets/94658620-cd2d-43d4-ace9-7880921294fb" />
+
+<img width="934" height="155" alt="image" src="https://github.com/user-attachments/assets/74b51cff-7f21-4c1a-bae5-faf68786ad5e" />
+
+
+
 ## Application Security Groups (ASGs)
 
 ASGs group Azure virtual machines based on application requirements, simplifying network security:
