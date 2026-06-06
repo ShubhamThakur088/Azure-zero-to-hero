@@ -35,6 +35,8 @@ Routes dictate how network traffic is directed, specifying the destination and n
 
 Route Tables are collections of routes associated with subnets, enabling custom routing rules. Each route within a table specifies a destination IP address range and the next hop type. A hop type can be anything.
 
+Also, custom route tables let you control within your VNet and between your VNet and other networks.
+
 Common hop types includes:
 
     - Virtual Appliances like Azure Firewall
