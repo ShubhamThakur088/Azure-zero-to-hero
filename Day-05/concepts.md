@@ -22,6 +22,9 @@ CIDR notation represents IP addresses and their routing prefix, specifying the r
 In other words, CIDR is a method of allocating IP addresses and route internet traffic efficiently. It allows network administrators to create
 custom sized networks by specifying exactly how many bits are used for network portion of an IP address
 
+<img width="410" height="130" alt="image" src="https://github.com/user-attachments/assets/8d5b204a-0ab3-4e24-9a4c-9cf4f7dca83e" />
+
+
 ## Routes and Route Tables
 
 ### Routes
