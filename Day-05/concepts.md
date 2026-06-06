@@ -19,6 +19,8 @@ Subnets are subdivisions of a Virtual Network, allowing for better organization 
 ### CIDR (Classless Inter-Domain Routing)
 
 CIDR notation represents IP addresses and their routing prefix, specifying the range of IP addresses for a network.
+In other words, CIDR is a method of allocating IP addresses and routing internet traffic efficiently. It allows network administrators to create
+custom sized networks by specifying exactly how many bits are used for network portion of an IP address
 
 ## Routes and Route Tables
 
