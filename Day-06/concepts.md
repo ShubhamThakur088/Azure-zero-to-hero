@@ -24,7 +24,7 @@ Benefits of Load Balancer:
 - **Cost-Effective**: No need to invest in expensive hardware. Azure takes care of it.
 - **Easy to Manage**: User friendly UI make it easy to create and manage a load balancer
 
-  <img width="1392" height="800" alt="Screenshot 2026-06-06 182755" src="https://github.com/user-attachments/assets/eb8bfa6f-14de-480d-8e6e-a75911a6cd56" />
+  <img width="1450" height="800" alt="Screenshot 2026-06-06 182755" src="https://github.com/user-attachments/assets/eb8bfa6f-14de-480d-8e6e-a75911a6cd56" />
 
 
 Key features include:
