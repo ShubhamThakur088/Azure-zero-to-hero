@@ -16,7 +16,18 @@ Key features include:
 
 ## Azure Load Balancer
 
-Azure Load Balancer distributes incoming network traffic across multiple servers to ensure no single server is overwhelmed. Key features include:
+Azure Load Balancer distributes incoming network traffic across multiple servers to ensure no single server is overwhelmed. Thereby, increasing performance, high availability and fault tolerance.
+
+Benefits of Load Balancer:
+- **Scalable**: Provides scalable and flexible solutions for handling incoming web traffic
+- **Highly Available**: In any event of failure, the load balancer direct request/traffic to the healthy VM.
+- **Cost-Effective**: No need to invest in expensive hardware. Azure takes care of it.
+- **Easy to Manage**: User friendly UI make it easy to create and manage a load balancer
+
+  <img width="1392" height="800" alt="Screenshot 2026-06-06 182755" src="https://github.com/user-attachments/assets/eb8bfa6f-14de-480d-8e6e-a75911a6cd56" />
+
+
+Key features include:
 
 - **Load Balancing Algorithms**: Supports different algorithms for distributing traffic, such as round-robin and least connections.
 
