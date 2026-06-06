@@ -2,7 +2,9 @@
 
 ## Azure App Gateway & WAF
 
-Azure Application Gateway is a web traffic load balancer that enables you to manage and route traffic to your web applications. Web Application Firewall (WAF) provides protection against web vulnerabilities. Key features include:
+Azure Application Gateway is a web traffic load balancer that enables you to manage and route traffic to your web applications. This web traffic load balancer works on the 7th layer (Application Layer) of OSI model
+
+Web Application Firewall (WAF) provides protection against web vulnerabilities. Key features include:
 
 - **Load Balancing**: Distributes incoming traffic across multiple servers to ensure no single server is overwhelmed.
 
