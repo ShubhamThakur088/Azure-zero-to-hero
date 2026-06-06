@@ -33,7 +33,14 @@ Routes dictate how network traffic is directed, specifying the destination and n
 
 ### Route Tables
 
-Route Tables are collections of routes associated with subnets, enabling custom routing rules.
+Route Tables are collections of routes associated with subnets, enabling custom routing rules. Each route within a table determines specifies a destination IP address range and the next hop type. A hop type can be anything. 
+Common hop types includes:
+    - Virtual Appliances like Azure Firewall
+    - Internet
+    - None (Drop Route)
+
+<img width="920" height="165" alt="image" src="https://github.com/user-attachments/assets/72759e98-71d3-493e-9226-1f107a727f50" />      
+
 
 ## Network Security Groups (NSGs)
 
