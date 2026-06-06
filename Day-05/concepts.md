@@ -2,7 +2,7 @@
 
 ## Virtual Network
 
-A Virtual Network (VNet) in Azure is a logically isolated network that securely connects Azure resources and extends on-premises networks. Key features include:
+A Virtual Network (VNet) in Azure is a logically isolated network dedicated to your subscription that securely connects Azure resources and extends on-premises networks. Think of it as creating your own isolated network segment inside a Azure's massive Data center. Key features include:
 
 - **Isolation**: VNets provide isolation at the network level for segmenting resources and controlling traffic.
 
