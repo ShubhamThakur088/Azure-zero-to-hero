@@ -56,9 +56,12 @@ NSGs are fundamental for Azure's network security, allowing filtering of inbound
 
 - **Association**: NSGs can be associated with subnets or individual network interfaces.
 
-<img width="934" height="155" alt="image" src="https://github.com/user-attachments/assets/94658620-cd2d-43d4-ace9-7880921294fb" />
+  <img width="1624" height="2048" alt="image_imgupscaler ai_General_2K" src="https://github.com/user-attachments/assets/4b976dbc-b8c3-488e-b426-1a5b6bdc531a" />
 
-<img width="934" height="155" alt="image" src="https://github.com/user-attachments/assets/74b51cff-7f21-4c1a-bae5-faf68786ad5e" />
+  <img width="454" height="573" alt="image" src="https://github.com/user-attachments/assets/f95f8668-3efa-4342-af20-301b25717c10" />
+
+
+
 
 
 
