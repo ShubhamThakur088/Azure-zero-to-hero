@@ -68,10 +68,16 @@ NSGs are fundamental for Azure's network security, allowing filtering of inbound
 
 ## Application Security Groups (ASGs)
 
-ASGs group Azure virtual machines based on application requirements, simplifying network security:
+ASGs group Azure virtual machines based on application requirements. ASGs enable network security group policies to be defined using logical application groupings rather than individual VMs IP addresses. Hence, simplifying network security:
 
 - **Simplification**: ASGs allow defining rules based on application roles instead of individual IP addresses.
 
 - **Dynamic Membership**: ASGs support dynamic membership based on tags or other attributes.
 
 - **Rule Association**: Security rules can be associated with ASGs for intuitive and scalable network security management.
+
+## ASG Benefits
+
+- **Consistent Security Policies** across a group of VMs
+
+- **Scalability**, ASGs automatically adjust to accomodate changes in VM.
