@@ -53,9 +53,11 @@ Azure Firewall is a managed, cloud-based network security service that protects 
 
 Key features include:
 
-- **Stateful Firewall**: Allows or denies traffic based on rules and supports stateful inspection.
+- **Stateful Firewall**: Allows or denies traffic based on rules and supports stateful inspection. Stateful firewall keeps track and monitors active network connections while analyzing incoming traffic and potential data risks. This firewall is situated at layer-3 (Network) and layer-4 (Transport)
 
-- **Application FQDN Filtering**: Filters traffic based on fully qualified domain names.
+- **Application FQDN Filtering**: Filters traffic based on fully qualified domain names. A Fully Qualified Domain Name (FQDN) is the complete address of a website on the internet. Some of the examples are:
+    - mail.example.com
+    - blog.example.com
 
 - **Threat Intelligence Integration**: Integrates with threat intelligence feeds for enhanced security.
 
