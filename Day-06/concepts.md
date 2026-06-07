@@ -37,7 +37,9 @@ Key features include:
 
 ## Azure DNS
 
-Azure DNS is a scalable and secure domain hosting service. It provides name resolution using the Microsoft Azure infrastructure. Key features include:
+Azure DNS is a scalable and secure domain hosting service. It provides name resolution using the Microsoft Azure infrastructure. Using Anycast, each DNS query is answered by the closest available DNS server.
+
+Key features include:
 
 - **Domain Hosting**: Hosts domain names and provides name resolution within Azure.
 
@@ -47,7 +49,9 @@ Azure DNS is a scalable and secure domain hosting service. It provides name reso
 
 ## Azure Firewall
 
-Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources. Key features include:
+Azure Firewall is a managed, cloud-based network security service that protects your Azure Virtual Network resources. Built as a stateful firewall as a service. It comes with high availability and scalability
+
+Key features include:
 
 - **Stateful Firewall**: Allows or denies traffic based on rules and supports stateful inspection.
 
